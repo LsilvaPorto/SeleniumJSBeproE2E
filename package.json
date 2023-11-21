@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "selenium-metamask": "^3.0.1",
     "selenium-webdriver": "^4.15.0"
   }
 }
