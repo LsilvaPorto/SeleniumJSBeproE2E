@@ -1,4 +1,4 @@
-const { Builder, By } = require('selenium-webdriver');
+const { Builder } = require('selenium-webdriver');
 const chrome = require('selenium-webdriver/chrome');
 const { setupMetamask } = require('./helpers/metamask-helper');
 const { getAllWindowsAndTabs } = require('./helpers/window-helper');

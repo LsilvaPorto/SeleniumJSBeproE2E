@@ -1,3 +1,6 @@
 metamask.crx
 package-lock.json
 node_modules/
+*.zip
+geckodriver
+*.gz

@@ -4,12 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "node Tests/metamask.js"
+    "test": "node Tests/metamask.js",
+    "e2e": "node Tests/selenium-metamask.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "selenium-metamask": "^3.0.1",
-    "selenium-webdriver": "^4.15.0"
+    "selenium-webdriver": "^4.1.0"
   }
 }
